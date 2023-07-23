@@ -1,1 +1,4 @@
 /.conda
+utils/__pycahe__
+utils/__pycache__/graph_code.cpython-311.pyc
+*.pyc
